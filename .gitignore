@@ -1,2 +1,6 @@
 # Ignore virtual env directory
 nlp_env
+
+# Ignore vscode files
+.vscode
+__pycache__

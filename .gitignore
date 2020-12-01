@@ -4,3 +4,9 @@ nlp_env
 # Ignore vscode files
 .vscode
 __pycache__
+
+# Other ignores
+.idea
+
+# tokenizers
+tokenizers
